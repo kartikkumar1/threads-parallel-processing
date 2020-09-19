@@ -1,4 +1,6 @@
-#Working
+# hEADER
+## subheader
+# Working
 Problem Description
 Task. You have a program which is parallelized and uses 𝑛 independent threads to process the given list of 𝑚
 jobs. Threads take jobs in the order they are given in the input. If there is a free thread, it immediately
@@ -20,3 +22,5 @@ Constraints. 1 ≤ 𝑛 ≤ 105
 Format. Output exactly 𝑚 lines. 𝑖-th line (0-based index is used) should contain two spaceseparated integers — the 0-based index of the thread which will process the 𝑖-th job and the time
 in seconds when it will start processing that job.
 !
+
+

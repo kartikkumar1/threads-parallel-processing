@@ -1,0 +1,1 @@
+test __cpp_conditional_explicit
