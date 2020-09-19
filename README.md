@@ -19,3 +19,4 @@ Constraints. 1 ≤ 𝑛 ≤ 105
 
 Format. Output exactly 𝑚 lines. 𝑖-th line (0-based index is used) should contain two spaceseparated integers — the 0-based index of the thread which will process the 𝑖-th job and the time
 in seconds when it will start processing that job.
+!
