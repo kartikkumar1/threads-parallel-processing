@@ -1,1 +1,1 @@
-test __cpp_conditional_explicit
+//test __cpp_conditional_explicit
